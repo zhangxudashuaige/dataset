@@ -21,43 +21,36 @@
 | 零样本聚类 | Mouse Brain MERFISH | [打开数据](https://huggingface.co/datasets/anuosi666/zero-shot-clustering/tree/main/Mouse%20Brain%20MERFISH) |
 | 组织区域分割 | CS12-13 | [打开数据](https://huggingface.co/datasets/anuosi666/tissue-region-segmentation/tree/main/CS12-13) |
 | 组织区域分割 | DLPFC | [打开数据](https://huggingface.co/datasets/anuosi666/tissue-region-segmentation/tree/main/DLPFC) |
-
 | 组织区域分割 | simulated_balanced_data.h5ad| [打开数据](https://huggingface.co/datasets/anuosi666/tissue-region-segmentation/tree/main/DLPFC) |scCAUSALVI, scDe
 sign3
 <img width="977" height="121" alt="image" src="https://github.com/user-attachments/assets/c46459ba-12e0-4150-860b-20e1fa142196" />
-
 | 组织区域分割 | ifnb_preprocess.h5ad | [打开数据](https://huggingface.co/datasets/anuosi666/tissue-region-segmentation/tree/main/DLPFC) |scCAUSALVI
 <img width="962" height="152" alt="image" src="https://github.com/user-attachments/assets/11231b28-2237-4f79-a8b4-d373d60ff784" />
-
 | 组织区域分割 | Single_cell_atlas_of_peripheral_immune_response_to_SARS_CoV_2_infection.h5ad | [打开数据](https://huggingface.co/datasets/anuosi666/tissue-region-segmentation/tree/main/DLPFC) |scCAUSALVI
 <img width="1053" height="100" alt="image" src="https://github.com/user-attachments/assets/670450c4-98be-4608-84a0-b01a88bc9044" />
-
 | 组织区域分割 | PBMC_COVID19-batch_effect.h5ad | [打开数据](https://huggingface.co/datasets/anuosi666/tissue-region-segmentation/tree/main/DLPFC) |scCAUSALVI
 <img width="976" height="206" alt="image" src="https://github.com/user-attachments/assets/8f336602-0d4c-4753-93ff-a421dc293ea8" />
-
 | 组织区域分割 | PBMC_COVID19-negative_control.h5ad | [打开数据](https://huggingface.co/datasets/anuosi666/tissue-region-segmentation/tree/main/DLPFC) |scCAUSALVI
 <img width="959" height="197" alt="image" src="https://github.com/user-attachments/assets/b62adee5-90ea-4d1d-8d31-807dcd330801" />
-
 | 组织区域分割 | 20210217_NasalSwab_Broad_BCH_UMMC_to_CZI.h5ad | [打开数据](https://huggingface.co/datasets/anuosi666/tissue-region-segmentation/tree/main/DLPFC) |scCAUSALVI
 <img width="1047" height="599" alt="image" src="https://github.com/user-attachments/assets/315537f2-1e8b-4c16-af9a-8bffd35f65d7" />
 <img width="1057" height="427" alt="image" src="https://github.com/user-attachments/assets/bb437d1d-d02d-404d-a8e1-3f73dfc6c17a" />
-
 | 组织区域分割 | Single_cell_atlas_of_peripheral_immune_response_to_SARS_CoV_2_infection.h5ad | [打开数据](https://huggingface.co/datasets/anuosi666/tissue-region-segmentation/tree/main/DLPFC) |scCAUSALVI
 <img width="1053" height="100" alt="image" src="https://github.com/user-attachments/assets/499917b6-5043-4f3a-862b-cbe2e7743b46" />
-
 | 表面蛋白预测 |a human peripheral blood mononuclear cell (PBMC) dataset with 198 proteins and 20,729 genes |https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE164378 |captain
-
 | 表面蛋白预测 |  a human mucosa-associated lymphoid tissue (MALT) dataset with 10 proteins and 33,538 genes (10x Genomics) | https://www.10xgenomics.com/resources/datasets/10-k-cells-from-a-malt-tumor-gene-expression-and-cell-surface-protein-3standard-3-0-0 |captain
-
 | 表面蛋白预测 | a human monocyte (MNC) dataset with 10 proteins and 29,929genes |(https://upenn.box.com/s/64c9fsex50g1bhv67893cpdg9c5jqjzo) |captain
-
 | 表面蛋白预测 | and a mouse PBMC dataset with 80 proteins and 31,056genes | [[打开数据](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE193733)] |captain
-
-| 批次效应消除 | PBMCs from 8 healthy donors |  https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE164378 |captain
-| 批次效应消除 | PBMCs from 2 SARS-CoV-2infected individuals |  https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE161918 |captain
-| 批次效应消除 | BMMCs from 13 healthy donors | d https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE194122 |captain
-
-
+| 多批次整合 | PBMCs from 8 healthy donors |  https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE164378 |captain
+| 多批次整合 | PBMCs from 2 SARS-CoV-2infected individuals |  https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE161918 |captain
+| 多批次整合 | BMMCs from 13 healthy donors | d https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE194122 |captain
+| 多组学整合 | Bone marrow mononuclear cells (BMMC) | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE194122 | CAPTAIN 
+| 多组学整合 | Composite scRNA-seq (TEA-seq) | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE158013 | CAPTAIN 
+| 多组学整合 | Composite scRNA-seq (ECCITE-seq and CITE-seq) | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE164378 | CAPTAIN 
+| 细胞通讯推断 | PBMC CITE-seq | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE164378 | CAPTAIN 
+| 细胞通讯推断 | Independent PBMC | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE161918 | CAPTAIN 
+| 细胞通讯推断 | Multi-sample COVID-19 | https://covid19cellatlas.org/ | CAPTAIN 
+| 预训练 | Curated pre-training corpus (scT&P-4M) | https://sctp4m.aigenomicsyulab.com | CAPTAIN
 
 
 

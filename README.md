@@ -2,7 +2,7 @@
 
 存储论文复现所用的数据链接。
 
-| 数据集名称 | 对应论文或模型 | 数据链接 | 备注 | 截图 |
+| 下游任务类型 | 数据集名称 | 数据链接 | 对应论文或模型或备注 | 截图 |
 | --- | --- | --- | --- | --- |
 | 虚拟细胞数据 | 数据1 | `https://www.iprox.cn//page/project.html?id=IPX0003578000` | 原始数据 |  |
 | 虚拟细胞数据 | 数据2 | `https://ftp.pride.ebi.ac.uk/pride/data/archive/2026/05/PXD063370/` | FTP 客户端（FileZilla / WinSCP）下载 |  |

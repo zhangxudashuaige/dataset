@@ -41,3 +41,10 @@
 | 细胞通讯推断 | Independent PBMC | `https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE161918` | CAPTAIN |  |
 | 细胞通讯推断 | Multi-sample COVID-19 | `https://covid19cellatlas.org/` | CAPTAIN |  |
 | 预训练 | Curated pre-training corpus (scT&P-4M) | `https://sctp4m.aigenomicsyulab.com` | CAPTAIN |  |
+| 时空转录组 | 3D 果蝇胚胎 | https://db.cngb.org/stomics/flysta3d/download/ | stVCR | E7–9 h，E9–10 h |
+| 时空转录组 | 3D 果蝇胚胎 | https://db.cngb.org/stomics/flysta3d/download/ | moscot | E14–16 h，E16–18 h |
+| 时空转录组 | 美西螈端脑再生 | https://db.cngb.org/stomics/artista/download/ | stVCR | stVCR 用了伤后 2、5、10、15、20 天。下载页有各时间点的 .h5ad 文件，例如 2DPIs.h5ad 和 5DPIs.h5ad |
+| 时空转录组 |小鼠胚胎 | https://ftp.cngb.org/pub/SciRAID/stomics/STDS0000058/stomics/Mouse_embryo_all_stage.h5ad | moscot | E9.5–E16.5，共 8 个时间点 |
+| 药物扰动响应数据 | LINCS L1000 | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE92742 | 综述 |  |
+| 扰动响应数据 | LINCS L1000 | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE92742 | 综述 |  |
+| 扰动响应数据 | LINCS L1000 | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE92742 | 综述 |  |
